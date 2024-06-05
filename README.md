@@ -34,32 +34,44 @@ This project focuses on the design and construction of custom battery packs usin
 - **Lithium-Ion Cells**:
   <p>
   <img width="379" alt="Screenshot 2024-06-06 at 1 31 16 AM" src="https://github.com/CodeBeginner000001/Battery-Packs/assets/92913917/8806b623-05cb-4dbe-823b-325dab7d3962">
-  </p>
+  </p>  <br>
   High-quality Li-ion cells (e.g., 18650, 21700) that meet your capacity and discharge rate needs.
+    <br>
+    
 - **Battery Management System (BMS)**:
   <p>
     <img width="379" src="https://github.com/CodeBeginner000001/Battery-Packs/assets/92913917/7cbda13b-b1f9-4175-88ca-5e1c75518784">
-  </p>
+  </p><br>
   A BMS module compatible with your battery configuration (e.g., 3S, 4S, 10S).
+  <br>
+  
 - **Nickel Strips**:
   <p>
     <img width="322" alt="Screenshot 2024-06-06 at 1 36 07 AM" src="https://github.com/CodeBeginner000001/Battery-Packs/assets/92913917/b88774c4-f64d-410f-abbe-0a8120adc61c">
-  </p>
+  </p><br>
   For connecting cells in series and parallel configurations.
+  <br>
+  
 - **Battery Holders or Heat Shrink**:
   <p>
     <img width="426" alt="Screenshot 2024-06-06 at 1 39 23 AM" src="https://github.com/CodeBeginner000001/Battery-Packs/assets/92913917/0aa4a03f-bb53-4332-b28e-5d5bee92762b">
-  </p>
+  </p><br>
   To safely secure and protect the battery pack.
+    <br>
+    
 - **Wires and Connectors**:
   <p>
     <img width="526" alt="Screenshot 2024-06-06 at 1 41 46 AM" src="https://github.com/CodeBeginner000001/Battery-Packs/assets/92913917/8bc6e9fd-5819-4b39-8aea-ab455443cf43">
   </p>
+  <br>
   For power output and BMS connections.
+    <br>
+    
 - **Protection Circuits**:
   <p>
     <img width="387" alt="Screenshot 2024-06-06 at 1 43 15 AM" src="https://github.com/CodeBeginner000001/Battery-Packs/assets/92913917/5b5ae380-5576-49c9-be7e-bcdd40512be5">
   </p>
+  <br>
   Optional fuses or circuit breakers for added safety.
 
 ## Getting Started
