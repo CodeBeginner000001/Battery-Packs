@@ -16,7 +16,6 @@ Welcome to the Custom Battery Packs project! This repository provides comprehens
 - [Usage](#usage)
 - [Safety Considerations](#safety-considerations)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -136,9 +135,6 @@ We welcome contributions to improve this project! To contribute, please follow t
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
